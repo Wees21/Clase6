@@ -1,0 +1,15 @@
+body {   
+    background-color: rgb(128, 89, 148); 
+} 
+ h1 {   
+    color: rgb(0, 0, 0);   text-align: center; font-size: 100px; border-style:solid  ;background-image: url("fondo.jpeg");margin-top: auto;border-color:black ;padding: 70px;
+ } 
+ h2 {   
+    font-family:Arial; font-size: 20px; color: rgb(106, 0, 145);   text-align: center;border-style:double  ;background-color: rgb(164, 141, 239);border-color: rgb(111, 2, 126); margin-top:1cap;border-width: 1cap;
+padding: 70px;
+}  
+
+h3 {
+    font-family: Courier ; font-size: 40px; color: rgb(255, 255, 255);   text-align: center;border-style:dashed  ;background-color: rgb(104, 39, 151);border-color: rgb(255, 255, 255); margin-top:1cap;border-width: 0.5cap;
+    padding: 50px;
+} 
